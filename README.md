@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BedirK
-- 👀 I’m interested in all kinds of *data
-- 🌱 I’m currently learning "Data Analysis"
-- 💞️ I’m looking to collaborate with people always eager to learn and who believe in mutualism :}
+- 👀 I’m interested in all operations about *data
+- 🌱 I’m currently learning "Data Analysis, Business Analysis and Business Intelligence"
+- 💞️ I’m looking to collaborate with people always eager to learn and open to development :}
 - 📫 How to reach me --> "bedir.metu@gmail.com"
 
 <!---
