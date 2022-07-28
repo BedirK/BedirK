@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BedirK
-- 👀 I’m interested in all operations about "Data Analysis, Software Testing"
-- 🌱 I’m currently learning Java,
+- 👀 I’m interested in all operations about "Data Analysis"
+- 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate with people always eager to learn and open to development :}
 - 📫 How to reach me --> "bedir.metu@gmail.com"
 
