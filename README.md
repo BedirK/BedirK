@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BedirK
-- 👀 I’m interested in all operations about "Data Processing and Business Analysis"
+- 👀 I’m interested in all operations about "Data Processing, Business Analysis and Business Intelligence"
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate with people always eager to learn and open to development :}
 - 📫 How to reach me --> "bedir.metu@gmail.com"
