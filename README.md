@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BedirK
 - 👀 I’m interested in all operations about "Data Processing, Business Analysis and Business Intelligence"
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning "SQL" and "Tableau"
 - 💞️ I’m looking to collaborate with people always eager to learn and open to development :}
 - 📫 How to reach me --> "bedir.metu@gmail.com"
 
