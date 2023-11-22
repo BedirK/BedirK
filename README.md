@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BedirK
-- 👀 I’m interested in all operations about "Data Analytics"
+- 👀 I’m interested in all operations about "Data & Analytics"
 - 💞️ I’m looking to collaborate with people always eager to learn and open to development :}
 - 📫 How to reach me --> "bedir.metu@gmail.com"
 
