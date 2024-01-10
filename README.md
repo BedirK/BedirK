@@ -5,9 +5,9 @@ Hi, I'm Bedirhan. Project Controls Engineer with expertise in data analysis and 
 
 I’m interested in all operations about "Data Analytics" and looking to collaborate with people always eager to learn and open to development :}
 
-- Generate reports and perform ad-hoc data analysis using SQL.
-- Developing dashboards on PowerBI and Tableau.
-- Data analysis and reporting using Excel and Google Sheets.
+- Data Cleaning and Preprocessing (Preparation)
+- Generating reports and performing ad-hoc data analysis using SQL,Excel and Google Sheets
+- Developing dashboards on PowerBI and Tableau
 
 ### 📚 Projects and Studies
 
@@ -23,11 +23,13 @@ Welcome to my portfolio;
 
 - [Customer Analytics Studies](https://github.com/BedirK/Customer-Analytics)
   
-### 🛠️ Tools
+### 🛠️ Tools and Technical Skills
 
-- Language: SQL, VBA, *Python*
-- Visualization: PowerBI, Tableau, Excel
-- Project Management: MS Project, JIRA, Asana
+   **Programming & RDBMS Language:** MSSQL, VBA, *Python (pandas, numpy)*
+   
+   **BI & Data Visualization:** Power BI, Tableau, Excel
+   
+   **Other:** MS Project, Google Sheets, Jira, Asana
 
 ### 👋🏻 Connect with Me
 
