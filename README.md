@@ -35,5 +35,5 @@ Welcome to my portfolio;
 ### 👋🏻 Connect with Me
 
 - [Linkedin](https://www.linkedin.com/in/bedirhankelez/)
-- [Gmail](bedir.metu@gmail.com)
 - [Medium](https://medium.com/@bedir_)
+- bedir.metu@gmail.com
