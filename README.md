@@ -9,7 +9,7 @@ I’m interested in all operations about "Data Analytics" and looking to collabo
 - Developing dashboards on PowerBI and Tableau.
 - Data analysis and reporting using Excel and Google Sheets.
 
-### 📚 Projects
+### 📚 Projects and Studies
 
 Welcome to my portfolio;
 
@@ -21,6 +21,8 @@ Welcome to my portfolio;
 
 - [Tableau Projects](https://github.com/BedirK/Tableau-Projects)
 
+- [Customer Analytics Studies](https://github.com/BedirK/Customer-Analytics)
+  
 ### 🛠️ Tools
 
 - Language: SQL, VBA, *Python*
@@ -31,3 +33,4 @@ Welcome to my portfolio;
 
 - [Linkedin](https://www.linkedin.com/in/bedirhankelez/)
 - [Gmail](bedir.metu@gmail.com)
+- [Medium](https://medium.com/@bedir_)
