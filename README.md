@@ -26,7 +26,7 @@ Welcome to my portfolio;
   
 ### 🛠️ Tools and Technical Skills
 
-   **Language:** MSSQL, VBA
+   **Language:** MS SQL, VBA
    
    **BI & Data Visualization:** Power BI, Tableau, Excel
    
