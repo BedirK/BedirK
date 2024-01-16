@@ -15,11 +15,11 @@ Welcome to my portfolio;
 
 - [Portfolio Projects](https://github.com/BedirK/Portfolio-Projects)
 
-- [SQL Projects](https://github.com/BedirK/Data-Analytics-Bootcamp-SQL)
+- [SQL](https://github.com/BedirK/SQL-Projects-Studies)
 
-- [PowerBI Projects](https://github.com/BedirK/PowerBI-Projects)
+- [PowerBI](https://github.com/BedirK/PowerBI-Projects)
 
-- [Tableau Projects](https://github.com/BedirK/Tableau-Projects)
+- [Tableau](https://github.com/BedirK/Tableau-Projects)
 
 - [Customer Analytics Studies](https://github.com/BedirK/Customer-Analytics)
   
