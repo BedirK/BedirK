@@ -34,6 +34,7 @@ Welcome to my portfolio;
 
 ### 👋🏻 Connect with Me
 
+- [My Profile](https://linktr.ee/bdrhn)
 - [Linkedin](https://www.linkedin.com/in/bedirhankelez/)
 - [Medium](https://medium.com/@bedir_)
 - bedir.metu@gmail.com
