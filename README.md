@@ -8,6 +8,7 @@ I’m interested in all operations about "Data Analytics" and looking to collabo
 - Data Cleaning and Preprocessing 
 - Generating reports and performing ad-hoc data analysis using SQL, Excel, and Google Sheets
 - Developing visuals on PowerBI and Tableau
+- Currently working on Jupyter Notebook using Numpy and Pandas libraries in Python
 
 ### 📚 Projects and Studies
 
