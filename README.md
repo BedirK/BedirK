@@ -8,7 +8,11 @@ I’m interested in all operations about "Data Analytics" and looking to collabo
 - Data Preprocessing 
 - Generating reports and performing ad-hoc data analysis using SQL, Excel, and Google Sheets
 - Developing visuals in PowerBI and Tableau for interactive outputs
-- Currently working on data manipulation and analysis using Numpy and Pandas libraries. (++ Matplotlib and Seaborn libraries for data viz)
+- Currently working on;
+  
+    **Numpy and Pandas libraries for data manipulation and analysis
+  
+    **Matplotlib and Seaborn libraries for data visualization
 
 
 
