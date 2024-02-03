@@ -22,6 +22,8 @@ I’m interested in all operations about **"Data Analytics"** and looking to col
 **Welcome to my portfolio**;
 
 - [PORTFOLIO Projects](https://github.com/BedirK/Portfolio-Projects)
+  
+-------------------------------------------------------------------
 
 **Mini Projects and Case Studies;**
 
