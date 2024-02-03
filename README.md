@@ -31,7 +31,10 @@ I’m interested in all operations about **"Data Analytics"** and looking to col
   
 - [PowerBI](https://github.com/BedirK/PowerBI-Projects)
   
+- [Python](https://github.com/BedirK/Python-Projects/tree/main)
+
 - [Customer Analytics Studies](https://github.com/BedirK/Customer-Analytics)
+  
 - [Tableau](https://github.com/BedirK/Tableau-Projects)
   
   
