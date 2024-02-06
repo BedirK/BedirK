@@ -25,7 +25,7 @@ I’m interested in all operations about **"Data Analytics"** and looking to col
   
 -------------------------------------------------------------------
 
-**Mini Projects and Case Studies;**
+**Projects, Case Studies & Exercises;**
 
 - [SQL](https://github.com/BedirK/SQL-Projects-Studies)
   
