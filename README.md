@@ -12,7 +12,7 @@ I’m interested in all operations about **"Data Analytics"** and looking to col
   
     **Numpy and Pandas** libraries for data manipulation and analysis
   
-    **Matplotlib and Seaborn** libraries for data visualization
+    **Matplotlib, Seaborn and Plotly** libraries for data visualization
 
 
 
@@ -42,7 +42,7 @@ I’m interested in all operations about **"Data Analytics"** and looking to col
 
    **Language:** MS SQL, VBA, Python (Pandas, Numpy)
    
-   **BI & Data Visualization:** Power BI, Tableau, Excel, Matplotlib, Seaborn
+   **BI & Data Visualization:** Power BI, Tableau, Excel, Matplotlib, Seaborn, Plotly
    
    **Other:** MS Project, Google Sheets, Jira, Asana
 
