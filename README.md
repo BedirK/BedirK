@@ -6,9 +6,9 @@ Hi, I'm Bedirhan. Project Controls Engineer with expertise in data analysis and 
 I’m interested in all operations about **"Data Analytics"** and looking to collaborate with people always eager to learn and open to development :}
 
 - Data Preprocessing 
-- Generating reports and performing ad-hoc data analysis using **MS SQL, Excel,** and **Google Sheets**
+- Generating reports and performing ad-hoc data analysis using **MS SQL, Excel,** and **Python**
 - Developing visuals in **PowerBI** and **Tableau** for interactive outputs
-- Currently working on **Python**;
+- Currently working on;
   
     **Numpy and Pandas** libraries for data manipulation and analysis
   
