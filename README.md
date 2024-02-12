@@ -19,24 +19,22 @@ I’m interested in all operations about **"Data Analytics"** and looking to col
 ## 📚 Projects and Studies
 
 
-**Welcome to my portfolio**;
+### My Portfolio Projects;
 
-- [PORTFOLIO Projects](https://github.com/BedirK/Portfolio-Projects)
+- [Customer Segmentation - RFM Analysis](https://github.com/BedirK/Portfolio-Projects/tree/main/Customer%20Segmentation/RFM%20Analysis%20End-to-End/FLO) | **MS SQL, PowerBI**
+
+- [Retail Analysis](https://github.com/BedirK/Portfolio-Projects/tree/main/Retail%20Analysis) | **Excel, PowerBI** 
+
+- [Customer Return Calculation](https://github.com/BedirK/Portfolio-Projects/tree/main/Customer%20Return%20Calculation) | **Python (NumPy, Pandas)** 
+
   
 -------------------------------------------------------------------
 
-**Projects, Case Studies & Exercises;**
+### Projects, Case Studies & Exercises;
 
-- [SQL](https://github.com/BedirK/SQL-Projects-Studies)
-  
-- [PowerBI](https://github.com/BedirK/PowerBI-Projects)
-  
-- [Python](https://github.com/BedirK/Python-Projects/tree/main)
-
+- [SQL](https://github.com/BedirK/SQL-Projects-Studies) | [Python](https://github.com/BedirK/Python-Projects/tree/main)
+- [PowerBI](https://github.com/BedirK/PowerBI-Projects) | [Tableau](https://github.com/BedirK/Tableau-Projects)
 - [Customer Analytics Studies](https://github.com/BedirK/Customer-Analytics)
-  
-- [Tableau](https://github.com/BedirK/Tableau-Projects)
-  
   
 ## 🛠️ Tools and Technical Skills
 
