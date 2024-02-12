@@ -14,11 +14,11 @@ I’m interested in all operations about **"Data Analytics"** and looking to col
 
 # 📚 Portfolio Projects
 
-- [Customer Segmentation - RFM Analysis](https://github.com/BedirK/Portfolio-Projects/tree/main/Customer%20Segmentation/RFM%20Analysis%20End-to-End/FLO) | MS SQL, PowerBI
+- **[Customer Segmentation - RFM Analysis](https://github.com/BedirK/Portfolio-Projects/tree/main/Customer%20Segmentation/RFM%20Analysis%20End-to-End/FLO) | MS SQL, PowerBI**
 
-- [Retail Analysis](https://github.com/BedirK/Portfolio-Projects/tree/main/Retail%20Analysis) | Excel, PowerBI
+- **[Retail Analysis](https://github.com/BedirK/Portfolio-Projects/tree/main/Retail%20Analysis) | Excel, PowerBI**
 
-- [Customer Return Calculation](https://github.com/BedirK/Portfolio-Projects/tree/main/Customer%20Return%20Calculation) | Python (NumPy, Pandas)
+- **[Customer Return Calculation](https://github.com/BedirK/Portfolio-Projects/tree/main/Customer%20Return%20Calculation) | Python (NumPy, Pandas)**
   
 -------------------------------------------------------------------
 
