@@ -23,9 +23,9 @@ I’m interested in all operations about **"Data Analytics"** and looking to col
 
 ## 📈 Mini Projects, Case Studies & Exercises;
 
-- **[SQL](https://github.com/BedirK/SQL-Projects-Studies) | [Python](https://github.com/BedirK/Python-Projects/tree/main)**
-- **[PowerBI](https://github.com/BedirK/PowerBI-Projects) | [Tableau](https://github.com/BedirK/Tableau-Projects)**
-- **[Customer Analytics Studies](https://github.com/BedirK/Customer-Analytics)**
+- ## **[SQL](https://github.com/BedirK/SQL-Projects-Studies) | [Python](https://github.com/BedirK/Python-Projects/tree/main)**
+- ## **[PowerBI](https://github.com/BedirK/PowerBI-Projects) | [Tableau](https://github.com/BedirK/Tableau-Projects)**
+- ## **[Customer Analytics Studies](https://github.com/BedirK/Customer-Analytics)**
 
 -------------------------------------------------------------------
   
