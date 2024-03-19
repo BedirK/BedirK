@@ -39,6 +39,6 @@ I’m interested in all operations about **"Data Analytics"** and looking to col
    - **Other:** MS Project, Google Sheets, Jira, Asana
 -------------------------------------------------------------------
 
-### 👋🏻 Connect with Me
+## 👋🏻 Connect with Me
 
 - **[Web Links](https://linktr.ee/bdrhn) | [Linkedin](https://www.linkedin.com/in/bedirhankelez/) | [Medium](https://medium.com/@bedir_) | [Kaggle](https://www.kaggle.com/bedirhankelez)**
