@@ -1,7 +1,7 @@
 
 # 👋 Welcome
 
-Hi, I'm Bedirhan. BI & CRM Analyst with expertise in data analysis and reporting. 
+Hi, I'm Bedirhan. BI Analyst with expertise in data analysis and reporting. 
 
 I’m interested in all operations about **"Data Analytics"** and looking to collaborate with people always eager to learn and open to development :}
 
